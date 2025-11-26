@@ -21,4 +21,4 @@ let isloggedIn = false
 
 //object
 
-console.log(typeof "Jigyansha");
+console.log(typeof undefined);
